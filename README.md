@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=siruku6&color=brightgreen)
+![](https://img.shields.io/stackexchange/stackoverflow/r/8674852?label=StackOverflow&logo=stack-overflow&style=flat")
 
 ### Welcome! ( \*˙︶˙\*)و
 
