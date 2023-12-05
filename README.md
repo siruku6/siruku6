@@ -1,4 +1,8 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=siruku6&color=brightgreen)
+
+### Welcome! ( \*˙︶˙\*)و
+
+
 
 <!--
 **siruku6/siruku6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
