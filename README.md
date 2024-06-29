@@ -1,9 +1,20 @@
+# Introduction of siruku6
+
 ![](https://komarev.com/ghpvc/?username=siruku6&color=brightgreen)
 [![](https://img.shields.io/stackexchange/stackoverflow/r/8674852?label=StackOverflow&logo=stack-overflow&style=flat&color=orange)](https://stackoverflow.com/users/8674852/siruku6)
 
 ### Welcome! ( \*˙︶˙\*)و
 
+## Statistics
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siruku6&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Topics
+
+### 🌱 I’m currently learning
+
+- RL (Reinforcement Learning)
+- GA (Genetic Algorithm)
 
 <!--
 **siruku6/siruku6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
