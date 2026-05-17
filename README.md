@@ -13,8 +13,10 @@
 
 ### 🌱 I’m currently learning
 
+- Robotics AI / TAMP (Task and Motion Planning)
+- Control
 - RL (Reinforcement Learning)
-- GA (Genetic Algorithm)
+
 
 <!--
 **siruku6/siruku6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
